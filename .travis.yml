@@ -3,5 +3,5 @@ language:
 java:
   - openjdk8
 script: 
-  cd java/H4
+  cd java/H4/ &&
   mvn clean compile test

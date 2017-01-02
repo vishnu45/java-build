@@ -1,4 +1,4 @@
+script: cd java/H4
 language: java
 java:
   - openjdk8
-script: cd java/H4/

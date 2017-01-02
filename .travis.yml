@@ -1,4 +1,7 @@
-language: java
+language: 
+  java
 java:
   - openjdk8
-script: cd java/H4
+script: 
+  cd java/H4
+  mvn clean compile test
